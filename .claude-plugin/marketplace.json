@@ -4,7 +4,11 @@
   "plugins": [
     {
       "name": "java-controller-to-api-plugin",
-      "source": "https://github.com/gk7261234/AISkill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/gk7261234/AISkill.git",
+        "sha": "44283e9b40372d464cd49ab22eede05bbf79ec28"
+      },
       "version": "0.1.0",
       "description": "Generate frontend TypeScript API modules from Java Spring Controllers"
     }
