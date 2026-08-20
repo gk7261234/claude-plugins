@@ -1,0 +1,12 @@
+{
+  "name": "gk-plugins",
+  "owner": { "name": "gk7261234" },
+  "plugins": [
+    {
+      "name": "java-controller-to-api-plugin",
+      "source": "https://github.com/gk7261234/AISkill",
+      "version": "0.1.0",
+      "description": "Generate frontend TypeScript API modules from Java Spring Controllers"
+    }
+  ]
+}
